@@ -2,7 +2,6 @@
 
 ## Environment
 * Download java 8 (http://jdk.java.net/java-se-ri/8-MR3) and install.
-  * Here is the tutorial.
 * Download java IDE (https://www.jetbrains.com/idea/download/#section=mac) and choose "IntelliJ IDEA Ultimate"
 
 ## Install Project
