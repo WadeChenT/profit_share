@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /profitShare
+  tomcat:
+    accept-count: 1000
+    max-connections: 5000
+    max-threads: 500
+    min-spare-threads: 50
+    connection-timeout: 120000
